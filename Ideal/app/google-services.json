@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900994449823",
+    "firebase_url": "https://ideal-baec1.firebaseio.com",
+    "project_id": "ideal-baec1",
+    "storage_bucket": "ideal-baec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900994449823:android:32f2c391b36902a4",
+        "android_client_info": {
+          "package_name": "com.example.ideal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900994449823-d4uh85t8m0ed9s58oefku4tmleidh22u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1G-7mybPB0gEuxcnIVG02ohkpVe9YVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900994449823-d4uh85t8m0ed9s58oefku4tmleidh22u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
